@@ -1,0 +1,39 @@
+h1 {
+    float: center;
+    background-color:#ff4040;
+    margin: 2%;
+    text-align: center;
+   color: aliceblue;
+   align-content: center;
+
+}
+.column {
+    background-color: aqua;
+    float: center;
+    text-align: center;
+    margin: 1%;
+    padding: 2%;
+}
+#name{
+    color: #ff4040;
+    font-size: 20px;
+    
+}
+.column2 {
+        display: flex;
+        width: 33%;
+        margin: 5%;
+        text-align: center;
+        
+        
+}
+   
+.contact{
+    float: center;
+    margin: 5%;
+   
+
+}
+#right{
+    
+}
